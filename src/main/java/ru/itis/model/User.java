@@ -7,7 +7,7 @@ import java.util.List;
  * 25.01.17
  * User
  *
- * @author Sidikov Marsel (First Software Engineering Platform)
+ * @author Marat
  * @version v1.0
  */
 @Entity

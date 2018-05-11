@@ -6,13 +6,7 @@ import ru.itis.security.details.UserDetailsServiceImpl;
 
 import java.util.Collection;
 
-/**
- * 25.01.17
- * TokenAuthentication
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
 public class TokenAuthentication extends AbstractAuthenticationToken {
     private final String token;
 

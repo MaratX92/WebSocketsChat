@@ -14,13 +14,7 @@ import java.io.IOException;
 
 import static ru.itis.security.utils.TokenUtils.getTokenFromHttp;
 
-/**
- * 25.01.17
- * TokenAuthFilter
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
 @Component
 public class TokenAuthFilter extends GenericFilterBean {
 

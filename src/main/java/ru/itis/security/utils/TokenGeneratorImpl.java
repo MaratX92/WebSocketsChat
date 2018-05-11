@@ -7,13 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 import java.util.Random;
 
-/**
- * 25.01.17
- * TokenGeneratorImpl
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
 @Component
 public class TokenGeneratorImpl implements TokenGenerator {
     private static final int LENGTH = 20;

@@ -7,13 +7,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * 25.01.17
- * UserDetailsImpl
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
-/*
+
 UserDetails - прослойка между логикой моделей
 и логикой безопасности
  */

@@ -14,14 +14,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 25.01.17
- * UserDetailsServiceImpl
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
-
-/**
  * UserDetailsService - интерфейс, описывающий логику работы
  * с данными по безопасности
  */

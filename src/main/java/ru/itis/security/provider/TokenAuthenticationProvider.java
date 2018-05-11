@@ -10,13 +10,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Component;
 import ru.itis.security.auth.TokenAuthentication;
 
-/**
- * 25.01.17
- * TokenAuthenticationProvider
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
 
 // Provider - занимается аутентификацией
 @Component

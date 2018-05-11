@@ -17,10 +17,10 @@ import ru.itis.service.UsersService;
 import java.util.List;
 
 /**
- * 25.01.17
+ *
  * UsersController
  *
- * @author Sidikov Marsel (First Software Engineering Platform)
+ * @author Marat
  * @version v1.0
  */
 

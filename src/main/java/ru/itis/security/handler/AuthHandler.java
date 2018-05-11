@@ -15,13 +15,8 @@ import java.io.IOException;
 
 import static ru.itis.security.utils.TokenUtils.getTokenFromWebSocketsMessage;
 
-/**
- * 26.01.17
- * AuthHandler
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
- * @version v1.0
- */
+
+
 // перехватчик сообщений из определенной сессии сокетов
     @Component
 public class AuthHandler extends TextWebSocketHandler {
